@@ -78,8 +78,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felixkeng&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleng1&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleng1&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixkeng&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixkeng&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -104,4 +104,4 @@ Feel free to reach out to me on these platforms!
 
 ---
 
-[![Felix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aleng1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Felix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felixkeng&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
