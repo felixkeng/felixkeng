@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Halim</h1>
+<h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">A software engineering student from Malaysia 🇲🇾</h3>
 
 <div align="center">
@@ -104,4 +104,4 @@ Feel free to reach out to me on these platforms!
 
 ---
 
-[![Halim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aleng1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Felix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aleng1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
